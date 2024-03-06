@@ -1,0 +1,31 @@
+{
+    "documents": [
+        {
+            "id": "id__742",
+            "sentiment": "neutral",
+            "confidenceScores": {
+                "positive": 0.2,
+                "neutral": 0.68,
+                "negative": 0.12
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.2,
+                        "neutral": 0.68,
+                        "negative": 0.12
+                    },
+                    "offset": 0,
+                    "length": 144,
+                    "text": "Looking back on the things I've done I was trying to be someone I played my part, kept you in the dark Now let me show you the shape of my heart",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
